@@ -1,0 +1,7 @@
+#ignore temporary files
+*~
+*.swp
+*.swo
+
+#ignore executable file
+bin/*
